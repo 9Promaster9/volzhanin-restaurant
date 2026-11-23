@@ -54,8 +54,7 @@
     ],
     "links": {
       "yandexMaps": "https://yandex.ru/maps/-/CXcjED5-",
-      "yandexMapsOrg": "https://yandex.ru/maps/org/volzhanin/9340339243/",
-      "twogis": "https://2gis.ru/saratov/firm/70000001116293918"
+      "yandexMapsOrg": "https://yandex.ru/maps/org/volzhanin/9340339243/"
     }
   },
   "gallery": [
@@ -106,24 +105,6 @@
         "ratingsCount": "48 оценок",
         "reviewsCount": "40 отзывов",
         "url": "https://yandex.ru/maps/org/volzhanin/9340339243/",
-        "items": []
-      },
-      {
-        "id": "2gis",
-        "name": "2ГИС",
-        "rating": "4,9",
-        "ratingsCount": "19 оценок",
-        "reviewsCount": "16 отзывов",
-        "url": "https://2gis.ru/saratov/firm/70000001116293918",
-        "items": []
-      },
-      {
-        "id": "google",
-        "name": "Google Карты",
-        "rating": "Н/Д",
-        "ratingsCount": "Н/Д",
-        "reviewsCount": "Н/Д",
-        "url": "",
         "items": []
       }
     ]
